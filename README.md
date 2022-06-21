@@ -1,1 +1,1 @@
-# krome
+# krome browser
